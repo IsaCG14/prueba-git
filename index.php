@@ -8,5 +8,9 @@
 <body>
     <h1>Hola mundo</h1>
     <div>Segundo cambio</div>
+    <form action="" method="post">
+        <input type="text">
+        <input type="text">
+    </form>
 </body>
 </html>
